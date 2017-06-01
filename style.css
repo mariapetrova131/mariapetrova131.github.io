@@ -1,0 +1,547 @@
+/*h1, h2, h3, h4, h5, h6, input, textarea, select{
+	font-family: 'Lato',Helvetica,Arial,Lucida,sans-serif(index):27
+}*/
+h2 {
+	margin: 2em 0;
+}
+.playfair {
+	font-family: 'Playfair Display', sans-serif;
+}
+
+.raleway {
+	font-family: 'Raleway',Helvetica,Arial,Lucida,sans-serif;
+}
+
+/*nav*/
+
+
+.d__nav--logo {
+	width: 8.5em;
+}
+
+.d__nav {
+	margin-bottom: 0px;
+	padding: 1em;
+-webkit-box-shadow: 0px 4px 3px 0px rgba(221,221,221,0.2);
+-moz-box-shadow: 0px 4px 3px 0px rgba(221,221,221,0.2);
+box-shadow: 0px 4px 3px 0px rgba(221,221,221,0.2);
+}
+
+.d__nav--glyphicon {
+	color: black;
+	font-size: 1.5em;
+}
+
+/*carousel*/
+
+.carousel-caption {
+	bottom: 22em;
+}
+
+.carousel-h1 , .devisu-tagline-h1 {
+	
+   font-size: 7em;
+    font-weight: 100;
+    
+}
+
+.carousel-p , .devisu-tagline-p {
+	font-size: 2em;
+	font-weight: bold;
+	    margin: 1.5em 0;
+	
+}
+
+.carousel-btn {
+	background-color: #1880ed;
+	color: white;
+	font-size: 1.5em;
+	padding: 0.5em 1em;
+	
+	
+}
+
+
+/*gradient-container claim-consultation*/
+
+.claim-consultation {
+	height: 9em;
+	color: white;
+	padding-top: 3em;
+	
+}
+
+.claim-consultation-p {
+	font-size: 2em;
+	font-weight: bold;
+}
+
+
+.claim-consultation-btn {
+	width: 14em;
+    height: 4em;
+    border: none;
+    background-color: white;
+    color: #f15e47;
+    font-weight: bold;
+    font-family: monospace;
+    padding: 0px;
+}
+
+.claim-consultation-btn:hover {
+	color: white;
+	background-color: #f6907d;
+	background-position: 14em 4em;
+}
+
+
+
+/*devisu-tagline*/
+
+
+.devisu-tagline {
+	height: 30em;
+	padding-top: 5em;
+}
+
+.devisu-tagline-p {
+	font-weight: 100;
+}
+
+
+
+/*devisu-blocks*/
+
+.block-blocks {
+	height: 30em;
+	color: white;
+}
+
+.block-design {
+	background-color: #378fea;
+	
+}
+
+.block-development {
+	background-color: #4528bb;
+}
+
+.block-love {
+	background-color: #de2e4c;
+}
+
+.block-h1 {
+	font-size: 1.5em;
+	font-weight: bold;
+	padding: 2em 0;
+}
+
+
+/*nervs*/
+
+
+
+.nervs-h2 {
+	font-weight: 900;
+	font-size: 4.5em;
+	color: red;
+	margin: 2em 0;
+}
+
+
+/*services*/
+
+
+.services-h2 {
+	font-weight: 700;
+	font-size: 4em;
+}
+
+
+/*media*/
+
+.media {
+	/*text-align: center;*/
+
+	margin: 3em 0;
+
+}
+
+.media h4  {
+	font-size: 2em;
+	
+}
+
+.media  .glyphicon {
+	font-size: 2em;
+	
+}
+
+/*three-colums
+*/
+
+
+.three-colums-h3 {
+	font-size: 2em;
+	margin: 2em 0;
+}
+
+
+/*pricing 
+*/
+
+
+.pricing-h3 {
+	font-size: 1em;
+
+	font-weight: 100;
+}
+
+.pricing-media h3 {
+	font-size: 2.5em;
+	margin: 2em 0;
+	
+}
+
+.pricing-media p {
+	font-family: 'Playfair Display', sans-serif;
+}
+
+.pricing-media button {
+
+	width: 14em;
+    height: 4em;
+    border: none;
+    background-color: white;
+    color: #f15e47;
+    font-weight: bold;
+    font-family: monospace;
+    padding: 0px;
+    margin: 2em 0;
+}
+	
+
+	/*footer
+*/
+
+.footer h3 {
+	font-size: 2.5em;
+	margin: 2em 0;
+}
+
+.footer-col {
+	height: 30em;
+}
+
+
+
+.footer button {
+	width: 14em;
+    height: 4em;
+    border: none;
+    background-color: white;
+    color: #f15e47;
+    font-weight: bold;
+    font-family: monospace;
+    padding: 0px;
+    margin: 2em 0;
+    position: absolute;
+    bottom: 0px;
+    
+}
+
+
+
+
+.gradient {
+    background-color: #e34d67;
+    background-image: -webkit-gradient(linear, left bottom, right top, from(#e34d67), to(#f6653c));
+    background-image: -webkit-linear-gradient(left bottom, #e34d67, #f6653c);
+    background-image: -moz-linear-gradient(left bottom, #e34d67, #f6653c);
+    background-image: -o-linear-gradient(left bottom, #e34d67, #f6653c);
+    background-image: -ms-linear-gradient(left bottom, #e34d67, #f6653c);
+    background-image: linear-gradient(left bottom,#e34d67,#f6653c);
+   
+}
+
+
+.gradient-line {
+	background-color: #e34d67;
+    background-image: -webkit-gradient(linear, left bottom, right top, from(#1e83ec), to(#f6653c));
+    background-image: -webkit-linear-gradient(left bottom, #1e83ec, #f6653c);
+    background-image: -moz-linear-gradient(left bottom, #1e83ec, #f6653c);
+    background-image: -o-linear-gradient(left bottom, #1e83ec, #f6653c);
+    background-image: -ms-linear-gradient(left bottom, #1e83ec, #f6653c);
+    background-image: linear-gradient(left bottom,#1e83ec,#f6653c);
+    height: 3em;
+}
+
+
+
+/*// Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575px) { 
+
+ * {
+	background-color: blue;
+	}
+
+	.carousel-btn {
+		height: 3.4em;
+	}
+
+.carousel-caption {
+	bottom: 4em;
+	}
+
+.carousel-h1 , .devisu-tagline-h1 {
+	 font-size: 5em;
+    }
+
+.carousel-p, .devisu-tagline-p {
+	font-size: 1.2em;
+	font-weight: bold;
+	margin: 1em 0;
+	}
+
+.carousel-btn {
+	background-color: #1880ed;
+	color: white;
+	font-size: 1em;
+	padding: 0.5em 1em;
+}
+
+.claim-consultation {
+	height: 14em;
+}
+
+.claim-consultation-btn {
+	margin-right: 29%;
+	margin-top: 2em;
+	height: 4em;
+}
+
+.claim-consultation-p {
+	font-size: 1.4em;
+}
+
+.nervs-h2 {
+	font-size: 3em;
+}
+	.block-blocks > .block-h1 {
+	font-size: 2em;
+}
+
+.block-blocks > .block-p {
+	font-size: 1.5em;
+}
+
+.media h4  {
+	font-size: 2.5em;
+	
+}
+
+.media p {
+	font-size: 1.5em;
+}
+
+.media  .glyphicon {
+	font-size: 3em;
+	
+}
+
+
+.footer button {
+	width: 12em;
+    height: 4em;
+    border: none;
+    background-color: white;
+    color: #f15e47;
+    font-weight: bold;
+    font-family: monospace;
+    padding: 0px;
+    margin: 2em 0;
+    display: none;
+}
+
+.footer h3 {
+	font-size: 2em;
+	margin: 2em 0;
+}
+
+.footer-col {
+	height: 7em;
+}
+
+	}
+
+/*// Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767px) { 
+
+ * {
+	background-color: green;
+	}
+
+	.carousel-caption {
+	bottom: 5em;
+}
+
+.claim-consultation {
+	height: 18em;
+}
+
+.claim-consultation-btn {
+	margin-right: 33%;
+	margin-top: 3em;
+}
+
+.claim-consultation-text {
+	text-align: center;
+}
+
+.carousel-h1 , .devisu-tagline-h1 {
+	 font-size: 6em;
+    }
+
+.carousel-p , .devisu-tagline-p {
+	font-size: 1.2em;
+	font-weight: bold;
+	margin: 1em 0;
+	}
+
+	.block-blocks > .block-h1 {
+	font-size: 2em;
+}
+
+.block-blocks > .block-p {
+	font-size: 1.5em;
+}
+
+.nervs-h2 {
+	font-size: 3em;
+}
+
+.media h4  {
+	font-size: 3em;
+	
+}
+
+.media p {
+	font-size: 1.5em;
+}
+
+.media  .glyphicon {
+	font-size: 3em;
+	
+}
+
+.footer button {
+	width: 12em;
+    height: 4em;
+    border: none;
+    background-color: white;
+    color: #f15e47;
+    font-weight: bold;
+    font-family: monospace;
+    padding: 0px;
+    margin: 2em 0;
+    display: none;
+}
+
+.footer h3 {
+	font-size: 2em;
+	margin: 2em 0;
+}
+
+.footer-col {
+	height: 7em;
+}
+
+
+	}
+
+/*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991px) { 
+
+ * {
+	background-color: yellow;
+	}
+
+	.carousel-caption {
+	bottom: 10em;
+}
+
+.block-blocks > .block-h1 {
+	font-size: 2.5em;
+}
+
+.block-blocks > .block-p {
+	font-size: 1.5em;
+}
+
+.media h4  {
+	font-size: 3em;
+	
+}
+
+.media p {
+	font-size: 1.5em;
+}
+
+.media  .glyphicon {
+	font-size: 3em;
+	
+}
+
+.footer h3 {
+	font-size: 2em;
+	margin: 2em 0;
+}
+
+.footer-col {
+	height: 30em;
+}
+
+	}
+
+/*// Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199px) { 
+	
+	 * {
+	background-color: orange;
+	}
+
+	.carousel-caption {
+	bottom: 15em;
+}
+
+
+.footer button {
+	width: 12em;
+    height: 4em;
+    border: none;
+    background-color: white;
+    color: #f15e47;
+    font-weight: bold;
+    font-family: monospace;
+    padding: 0px;
+    margin: 2em 0;
+}
+
+.footer h3 {
+	font-size: 2em;
+	margin: 2em 0;
+}
+
+.footer-col {
+	height: 30em;
+}
+	 }
+
+/*// Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { 
+
+ * {
+	background-color: red;
+	}
+
+}
